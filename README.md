@@ -1,4 +1,4 @@
-monodevelop-unity-mimetypes
+monodevelop-java-mimetypes
 ===========================
 
-MonoDevelop (Xamarin Studio) addin to set CG mimetype for .shader and .cginc files
+MonoDevelop (Xamarin Studio) addin to set Java mimetype for java files

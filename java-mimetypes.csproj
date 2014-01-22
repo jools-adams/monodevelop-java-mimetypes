@@ -7,8 +7,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{965DF298-04B7-41B8-97D3-3AE5FC8013A6}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>unitymimetypes</RootNamespace>
-    <AssemblyName>unity-mimetypes</AssemblyName>
+    <RootNamespace>javamimetypes</RootNamespace>
+    <AssemblyName>java-mimetypes</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
     <DebugSymbols>true</DebugSymbols>
@@ -32,6 +32,6 @@
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <EmbeddedResource Include="MonoDevelop.UnityMimetypes.addin.xml" />
+    <EmbeddedResource Include="MonoDevelop.JavaMimetypes.addin.xml" />
   </ItemGroup>
 </Project>

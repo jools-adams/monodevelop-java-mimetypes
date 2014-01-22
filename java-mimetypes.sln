@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-mimetypes", "unity-mimetypes.csproj", "{965DF298-04B7-41B8-97D3-3AE5FC8013A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "java-mimetypes", "java-mimetypes.csproj", "{965DF298-04B7-41B8-97D3-3AE5FC8013A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,6 @@ Global
 		{965DF298-04B7-41B8-97D3-3AE5FC8013A6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = unity-mimetypes.csproj
+		StartupItem = java-mimetypes.csproj
 	EndGlobalSection
 EndGlobal
