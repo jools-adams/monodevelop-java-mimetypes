@@ -1,0 +1,7 @@
+<AddinProject appVersion="4.0">
+	<Project platforms="Mac Linux Win32">
+		<AddinFile>obj/x86/Debug/java-mimetypes.dll</AddinFile>
+		<BuildFile>java-mimetypes.sln</BuildFile>
+		<BuildConfiguration>Debug</BuildConfiguration>
+		</Project>
+</AddinProject>
