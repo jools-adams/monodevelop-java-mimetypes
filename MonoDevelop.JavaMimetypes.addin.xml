@@ -16,7 +16,6 @@
     <Extension path = "/MonoDevelop/Core/MimeTypes">  
       <MimeType id="text/x-java" _description="Java Source Files" isText="true"> 
         <File pattern="*.java" />  
-        <File pattern="*.cginc" />  
       </MimeType>  
     </Extension>  
       
