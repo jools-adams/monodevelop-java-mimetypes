@@ -4,7 +4,7 @@
        author      = "Julian Adams"
        copyright   = "MIT/X11"
        url         = "http://www.monodevelop.com"
-       description = "Adds x-java mimetype to .java files"
+       description = "Adds x-java mimetype to .java files to enable syntax coloring"
        category    = "Source Editor Extensions"
        version     = "1.0">
        
